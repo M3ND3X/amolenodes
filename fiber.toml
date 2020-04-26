@@ -9,9 +9,9 @@ blockchain_seckey_str = ""
 genesis_timestamp = 1554976303
 genesis_coin_volume = 100e4
 default_connections = [
-	"64.227.22.96:9982"
-	"104.248.121.138:9982"
-	"64.227.28.104:9982"
+	"64.227.22.96:9982",
+	"104.248.121.138:9982",
+	"64.227.28.104:9982",
 ]
 peer_list_url = "https://raw.githubusercontent.com/M3ND3X/amolenodes/master/nodes.txt"
 port = 9982
@@ -25,7 +25,7 @@ web_interface_port = 9981
 # max_block_size = 32 * 1024
 
 [params]
-# max_coin_supply = 1e8
+max_coin_supply = 1e8
 distribution_addresses_total = 5
 initial_unlocked_count = 5
 unlock_addresss_rate = 5
@@ -34,7 +34,7 @@ user_max_decimals = 3
 # user_max_transaction_size = 32 * 1024
 # user_burn_factor = 2
 distribution_addresses = [
-    "25qV7Dk1ywCUWFk5KwhhZFve3WgUSdTG7mk",
+        "25qV7Dk1ywCUWFk5KwhhZFve3WgUSdTG7mk",
 	"sznjYQDwxJejVg5pX37Nr66TTaG47JbLMR",
 	"qafY6RDmEuDXa3PmgnQTEvfM4ckCRtD8PX",
 	"228VCv1BGyYRrYzjwVh5X4F1oSjqyqbmxRr",
