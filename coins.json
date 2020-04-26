@@ -1,0 +1,20 @@
+[  
+ {   
+     "coin": "Amolecoin",   
+     "svalue": "AMC"
+     "cvalue": 1.0
+     "node": 104.254.247.98:9981  
+ },  
+ {   
+     "coin": "Jidecoin",   
+     "svalue": "JIC"
+     "cvalue": 2.8
+     "node": 104.254.247.98:9921  
+ },  
+ {   
+     "coin": "Bekalucoin",   
+     "svalue": "BEC"
+     "cvalue": 0.8
+     "node": 104.254.247.98:9931
+ }
+]
